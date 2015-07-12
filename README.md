@@ -1,2 +1,2 @@
 # leavemygroups
-This script helps you to leave of groups in vkontake social network.
+This script helps you to leave all groups in vkontake social network.
